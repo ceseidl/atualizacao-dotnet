@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GuiaApi/GuiaApi.csproj" />
+    <Project Path="src/GuiaConsole/GuiaConsole.csproj" />
+  </Folder>
+</Solution>
